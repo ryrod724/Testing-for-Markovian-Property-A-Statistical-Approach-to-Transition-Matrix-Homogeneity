@@ -1,3 +1,4 @@
-https://ojs.zefr.org/index.php/intplanet/article/view/17/16
+Testing for Markovian Property: A Statistical Approach to Transition Matrix Homogeneity
+[https://ojs.zefr.org/index.php/intplanet/article/view/17/16](https://ojs.zefr.org/index.php/intplanet/article/view/17)
 
 Markov chains are powerful tools for modeling systems that transition between distinct stateswith the probability of transitioning to each state depending solely on the previous one.  ThisMarkov  property  is  central  to  applications  across  disciplines,  including  geology,  biology,  andeconomics, as it allows for simplified, tractable analysis.  In this paper, we assess the presence ofMarkovian behavior in several processes by estimating a one-step transition probability matrixand employing a chi-squared test to validate the consistency of transition probabilities over time.Using R software, our study also examines change-point detection to identify shifts in transitionmatrices, offering insights into cases where Markovian assumptions may or may not hold, suchas weather patterns, language structures, and stock price movements.
