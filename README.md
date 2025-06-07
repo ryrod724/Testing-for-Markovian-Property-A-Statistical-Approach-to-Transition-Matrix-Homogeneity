@@ -1,4 +1,4 @@
-R codes and data sets for "Testing for Markovian Property: A Statistical Approach to Transition Matrix Homogeneity"
+Codes and datasets for "Testing for Markovian Property: A Statistical Approach to Transition Matrix Homogeneity"
 [https://ojs.zefr.org/index.php/intplanet/article/view/17/16](https://ojs.zefr.org/index.php/intplanet/article/view/17)
 
 Notebooks for "Detecting Change Points in Markovian Transition Probabilities" https://demonstrations.wolfram.com/DetectingChangePointsInMarkovianTransitionProbabilities2/
